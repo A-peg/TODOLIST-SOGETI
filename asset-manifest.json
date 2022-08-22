@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODOLIST-SOGETI/static/css/main.e416c9da.css",
+    "main.js": "/TODOLIST-SOGETI/static/js/main.556f8a2b.js",
+    "static/js/787.a80c77b6.chunk.js": "/TODOLIST-SOGETI/static/js/787.a80c77b6.chunk.js",
+    "index.html": "/TODOLIST-SOGETI/index.html",
+    "main.e416c9da.css.map": "/TODOLIST-SOGETI/static/css/main.e416c9da.css.map",
+    "main.556f8a2b.js.map": "/TODOLIST-SOGETI/static/js/main.556f8a2b.js.map",
+    "787.a80c77b6.chunk.js.map": "/TODOLIST-SOGETI/static/js/787.a80c77b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e416c9da.css",
+    "static/js/main.556f8a2b.js"
+  ]
+}
